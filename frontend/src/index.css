@@ -1,0 +1,30 @@
+:root {
+  font-family: "inter", monospace;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  --corum: #1E8449 ;
+  --cordois: #444444;
+  --cortres: #171717;
+  --corquatro: #1CC206;
+  --corcinco: #FFFFFF;
+  --lemonade: #b8ff00;
+  --electric: #03045E;
+ 
+}
+html, body, #root {
+  height: 100%;
+  background-color: #0b0c2a; /* sua cor de fundo */
+}
+
+/* reset css */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  
+}
+
